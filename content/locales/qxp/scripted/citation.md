@@ -28,7 +28,7 @@ If you use this data in your research, please cite the following papers:
     year         = {2026},
     publisher    = {Springer Nature Switzerland},
     pages        = {184--193},
-    isbn         = {978-3-032-20322-9}
+    isbn         = {978-3-032-20322-9},
     series       = {Communications in Computer and Information Science}
     }
 ```
